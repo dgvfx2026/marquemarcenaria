@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#1C1A18"/>
+  <!-- M letterform composed of four rectangles -->
+  <rect x="4"  y="4"  width="9" height="12" rx="0.5" fill="#C9B99F"/>
+  <rect x="19" y="4"  width="9" height="7"  rx="0.5" fill="#C9B99F"/>
+  <rect x="19" y="16" width="9" height="12" rx="0.5" fill="#C9B99F"/>
+  <rect x="4"  y="21" width="9" height="7"  rx="0.5" fill="#C9B99F"/>
+</svg>
